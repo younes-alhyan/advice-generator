@@ -1,4 +1,4 @@
-# 📁 Advice Generator
+# 📂 Advice Generator
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1645105188/Challenges/sfl8uqvq75wnnr559ksp.jpg)
 
