@@ -16,11 +16,11 @@ The perfect project if you're learning how to interact with 3rd-party APIs. This
 
 ## 🚀 Live Demo
 
-[View Demo](https://younes-alhyan.github.io/advice-generator)
+[View Demo](https://younes-alhyan-frontend-mentor.github.io/advice-generator)
 
 ## 🔎 More
 
-[GitHub Repository](https://github.com/younes-alhyan/frontend-mentor/)
+[GitHub Repository](https://github.com/younes-alhyan-frontend-mentor/frontend-mentor/)
 
 ## 🛠️ Tech Stack
 
@@ -35,8 +35,8 @@ The perfect project if you're learning how to interact with 3rd-party APIs. This
 
 ## 🏅 Level
 
-![gold star](https://younes-alhyan.github.io/frontend-mentor/assets/star-filled.svg)
-![gold star](https://younes-alhyan.github.io/frontend-mentor/assets/star-filled.svg)
-![empty star](https://younes-alhyan.github.io/frontend-mentor/assets/star-outline.svg)
-![empty star](https://younes-alhyan.github.io/frontend-mentor/assets/star-outline.svg)
-![empty star](https://younes-alhyan.github.io/frontend-mentor/assets/star-outline.svg)
+![gold star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-filled.svg)
+![gold star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-filled.svg)
+![empty star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-outline.svg)
+![empty star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-outline.svg)
+![empty star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-outline.svg)
